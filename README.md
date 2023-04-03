@@ -37,3 +37,6 @@ npx hardhat run scripts/3.deploy_saharaV3.ts --network localhost
 npx hardhat saharav3 --network localhost
 ```
 
+BSC测试网部署
+
+将 上面的命令中的 localhost 改为 testnet 即可
